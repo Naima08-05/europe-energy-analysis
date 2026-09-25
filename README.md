@@ -158,8 +158,7 @@ Enfin, les analyses de corrélation montrent que la consommation énergétique t
 
 ## Organisation du projet
 
-M1\_IMDS\_Energy/
-
+```text
 europe-energy-analysis/
 ├── energy_europe_analysis.ipynb
 ├── README.md
