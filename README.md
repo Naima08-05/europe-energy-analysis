@@ -166,6 +166,7 @@ europe-energy-analysis/
     ├── mix_energetique_2023.png
     └── correlation_matrix.png
 
+```
 ## Compétences mises en pratique
 
 Ce projet a permis de mettre en pratique plusieurs compétences :
