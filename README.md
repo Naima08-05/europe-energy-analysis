@@ -146,15 +146,26 @@ L'étude de la France montre également une diminution du charbon et une progres
 
 Enfin, les analyses de corrélation montrent que la consommation énergétique totale est globalement liée à l'évolution de la population et du PIB, tout en restant influencée par d'autres facteurs.
 
+## Exemples de résultats
+
+### Mix énergétique France - Allemagne en 2023
+
+![Mix énergétique France - Allemagne](images/mix_energetique_2023.png)
+
+### Matrice de corrélation
+
+![Matrice de corrélation](images/correlation_matrix.png)
+
 ## Organisation du projet
 
 M1\_IMDS\_Energy/
 
-- energy\_europe\_analysis.ipynb  
-- owid-energy-data.json  
-- README.md  
-- images/  
-- outputs/
+europe-energy-analysis/
+├── energy_europe_analysis.ipynb
+├── README.md
+└── images/
+    ├── mix_energetique_2023.png
+    └── correlation_matrix.png
 
 ## Compétences mises en pratique
 
